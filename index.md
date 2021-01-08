@@ -5,7 +5,6 @@ sections:
     type: section_hero
     title: This is a hero headline.
     subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
     image_alt: Author avatar
   - title: Recent Posts
     section_id: posts
